@@ -20,11 +20,11 @@
 .side-section{
   height: 100vh;
 }
-.responsive-image{
-  height: 25vh;
-  width: 30vh;
+
+buffer{
+  padding-bottom: 700vh;
 }
-img{
-  height: 25vh;
-  width: 30vh;
+
+.pic{
+  padding-top: 40px:
 }
