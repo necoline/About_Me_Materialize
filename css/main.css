@@ -1,0 +1,30 @@
+.mountain {
+  background: url("../images/Mountain.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 75vh;
+}
+
+
+.intro {
+  padding-top: 25vh;
+}
+
+.intro-text {
+  background-color: rgba(255, 255, 255, .5);
+  font-size: 5em;
+}
+.action-icon {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.side-section{
+  height: 100vh;
+}
+.responsive-image{
+  height: 25vh;
+  width: 30vh;
+}
+img{
+  height: 25vh;
+  width: 30vh;
+}
